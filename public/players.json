@@ -1,0 +1,110 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/N2JKnZCg/images-1.jpg",
+    "player_name": "Shakib Al Hasan",
+    "playing_role": "All-rounder",
+    "rating": 9.5,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "$1200000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/TdGdPnD/images-2.jpg",
+    "player_name": "Litton Das",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 8.6,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$700000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/1YXXWQBX/images-3.jpg",
+    "player_name": "Taskin Ahmed",
+    "playing_role": "Bowler",
+    "rating": 8.9,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "$800000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/7xTC9zQL/images.jpg",
+    "player_name": "Tamim Iqbal",
+    "playing_role": "Batsman",
+    "rating": 8.8,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$900000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/27zzJN7B/mushfiqur-rahim-1541502935.jpg",
+    "player_name": "Mushfiqur Rahim",
+    "playing_role": "Wicketkeeper Batsman",
+    "rating": 8.7,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$800000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/5hpQbK2G/image-25983-1635861932.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "playing_role": "All-rounder",
+    "rating": 8.5,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$750000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/DD5RvSbh/images-4.jpg",
+    "player_name": "Mustafizur Rahman",
+    "playing_role": "Bowler",
+    "rating": 9.0,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "$1000000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/GvMHNszw/63875.webp",
+    "player_name": "Mehidy Hasan Miraz",
+    "playing_role": "All-rounder",
+    "rating": 8.9,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$900000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/VYqpmM3k/images-7.jpg",
+    "player_name": "Soumya Sarkar",
+    "playing_role": "Batsman",
+    "rating": 8.2,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "$600000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/RkP5X57m/image-177360-1709744528.png",
+    "player_name": "Najmul Hossain Shanto",
+    "playing_role": "Batsman",
+    "rating": 8.4,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$700000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/mrKTqgY6/images-6.jpg",
+    "player_name": "Afif Hossain",
+    "playing_role": "All-rounder",
+    "rating": 8.3,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "price": "$650000"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/Z1zCKBnC/images-5.jpg",
+    "player_name": "Hasan Mahmud",
+    "playing_role": "Bowler",
+    "rating": 8.1,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "price": "$600000"
+  }
+]
